@@ -1,5 +1,9 @@
 # Fault Lacquer
 
+![Fault Lacquer demo](media/demo.gif)
+
+*Three commands fail and crack their tiles; after the fixes, two tiles are mended with gold seams and the build stays broken.* [Watch the MP4](https://github.com/ccdwyer/claude-mods/raw/main/media/fault-lacquer.mp4)
+
 Kintsugi for your Claude Code session. Every operation that fails (a test run, a type-check, an Edit whose text wasn't found, a fetch that 404s) becomes a glossy indigo lacquer tile, and the failure cracks it: braille fracture lines race out from an impact point while the tile shakes. When a later run of the same operation succeeds, the cracks fill with gold. A bright seam sweeps along each fracture, then glints for a moment. The tile is mended and more beautiful than before. Failures nobody fixed stay broken.
 
 - **Band above the prompt:** a row of mini-tiles (white cracks for broken, gold for mended) and the tally, e.g. `◈ 7 cracks · 5 repaired in gold · 2 still broken`. It stacks with other mods' bands.
