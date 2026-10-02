@@ -1,0 +1,16 @@
+{
+  "name": "fault-lacquer",
+  "version": "0.1.0",
+  "description": "Kintsugi for your session: failed operations crack a lacquer tile, and the run that fixes them repairs it with animated gold seams",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "homepage": "https://github.com/ccdwyer/fault-lacquer",
+  "supportUrl": "https://github.com/ccdwyer/fault-lacquer/issues",
+  "documentationUrl": "https://github.com/ccdwyer/fault-lacquer#readme",
+  "privacyPolicyUrl": "https://github.com/ccdwyer/fault-lacquer/blob/main/PRIVACY.md",
+  "author": {
+    "name": "Chris Dwyer",
+    "url": "https://github.com/ccdwyer"
+  },
+  "repository": "https://github.com/ccdwyer/fault-lacquer"
+}
